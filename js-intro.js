@@ -2,16 +2,19 @@
 
 // Consider this variable:
 
-var mantra = "Be the dev";
+var mantra = "Be the dev"
 
 // 1. Write the code that returns 'B' from mantra.
-
+console.log(mantra[0])
 // 2. Write the code that determines if there is a 'x' in mantra.
 
 // 3. Write the code that determines if there is a 'v' in mantra.
 
 // Stretch: Write the code that returns the position of 'v' in mantra.
-
+function position(word){
+    var newWord = manta["v"]
+    return newWord
+}
 
 // Consider the following statement:
 

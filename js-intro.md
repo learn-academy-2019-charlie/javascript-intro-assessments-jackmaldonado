@@ -3,10 +3,13 @@
 Answer these questions, then follow the instructions to submit your first assessment!
 
 #### 1. What is a function? Why would you use one?
-Hello
+
 #### 2. What is a method?
 
 #### 3. What are some examples of javascript string methods?
+charAt()
+indexOf()
+lastIndexOf()
 
 #### 4. Explain the difference between accessor and mutator methods. Why would you use one over the other?
 
